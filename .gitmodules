@@ -1,0 +1,15 @@
+[submodule "app"]
+	path = app
+	url = ../app
+[submodule "for_coder"]
+	path = for_coder
+	url = ../for_coder
+[submodule "ca2"]
+	path = ca2
+	url = ../ca2
+[submodule "include"]
+	path = include
+	url = ../include
+[submodule "port"]
+	path = port
+	url = ../../cpp-port/port11
